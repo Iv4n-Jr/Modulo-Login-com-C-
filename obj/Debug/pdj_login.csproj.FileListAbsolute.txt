@@ -1,0 +1,12 @@
+C:\Users\13iva\source\repos\pdj_login\bin\Debug\pdj_login.exe.config
+C:\Users\13iva\source\repos\pdj_login\bin\Debug\pdj_login.exe
+C:\Users\13iva\source\repos\pdj_login\bin\Debug\pdj_login.pdb
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.csproj.AssemblyReference.cache
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.Form1.resources
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.Form2.resources
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.Form3.resources
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.Properties.Resources.resources
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.csproj.GenerateResource.cache
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.csproj.CoreCompileInputs.cache
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.exe
+C:\Users\13iva\source\repos\pdj_login\obj\Debug\pdj_login.pdb
